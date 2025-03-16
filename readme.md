@@ -2,7 +2,6 @@
 Particle Cursor Effect 🎨✨
 
 A visually stunning particle cursor effect where particles are generated around the cursor and smoothly animate across the screen.
-🚀 Demo
 
 
 
