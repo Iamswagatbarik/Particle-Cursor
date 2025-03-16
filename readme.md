@@ -38,6 +38,8 @@ Simply include the script in your HTML file:
 
 <script src="particle-cursor.js"></script>
 
+
+
 🖥️ Technologies Used
 
     HTML
